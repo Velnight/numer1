@@ -1,0 +1,74 @@
+body{
+	font-size:24px;
+	background-color:blue;
+}
+#container{
+width: 1200px;	
+margin: auto;
+background-color: yellow;
+padding: 10px;
+padding-color:red;
+text-align:center;
+
+
+
+	
+}
+#wstep{
+	border: 4px solid red;
+	text-aling:center;
+	padding:10px;
+	
+}
+#dataWydarzenia{
+text-align:center;
+border: 2px solid grey;
+}
+#dniDoWydarzenia{
+text-align:center;
+border: 2px solid grey;
+}
+#godzinyDoWydarzenia{
+text-align:center;
+border: 2px solid grey;
+}
+#minutyDoWydarzenia{
+text-align:center;
+border: 2px solid grey;
+}
+#sekundyDoWydarzenia{
+	text-align: center;
+	border: 2px solid grey;
+}
+#footer{
+	margin-top: 50px;
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+    border: 5px solid blue;
+	letter-spacing: 3px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
